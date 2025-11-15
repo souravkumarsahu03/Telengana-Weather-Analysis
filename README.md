@@ -27,6 +27,6 @@
 
 
 # How To Run the project
-1). Download the dataset (My dataset is organisational based so refer datsets from websites like kaggle and data.com)
-2). Keep your dataset in the current working directory based on your power bi folder.
+1). Download the dataset (My dataset is organisational based so refer datsets from websites like kaggle and data.com) <br>
+2). Keep your dataset in the current working directory based on your power bi folder. <br>
 3). Download the pbix file and drap and drop the column to work with the reports.
